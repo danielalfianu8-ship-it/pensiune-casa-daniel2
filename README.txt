@@ -18,4 +18,4 @@ Pagini incluse:
 Contact afișat pe site:
 Telefon: 0751543696
 Adresă: Moieciu de Jos, Strada Principală nr. 508, România
-Check-in: 16:00 / Check-out: 11:00
+Check-in: 16:00 / Check-out: 11:00 
